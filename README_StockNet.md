@@ -4,7 +4,7 @@
 
 > Just like how LLMs become better by training on larger datasets, the accuracy of StockNet's inferences may increase with the daily addition of backlogs of historical data.
 
-![StockNet Demo](https://shoterz.github.io/TOOTURNT/StockNet_Demo.gif)
+![StockNet Demo](StockNet_Demo.gif)
 
 
 
